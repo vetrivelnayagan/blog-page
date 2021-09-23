@@ -1,0 +1,31 @@
+#contact iframe
+{
+    width: 100%;
+}
+.travel1{
+    border: 1px solid;
+}
+.travel1 img{
+    width: 100%;
+
+}
+.travel1 p{
+    margin: 20px; ;
+}
+.movies_head{
+    font-size: 20px;
+    padding: 6px 22px;
+    border-radius: 10px;
+margin-bottom: 15px;
+}
+.movies_head i{
+    float: right;
+
+}
+.movies_head span{
+    color: olivedrab;
+}
+.movie_text img{
+width: 30%;
+height: 400px;
+}
